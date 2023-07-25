@@ -14,8 +14,9 @@ JAVASCRIPT, HTML, CSS
 
 ***  
 ## Screenshots
-
 ![image](./Image/ColorChanger.png)
+
+[Live Preview](https://color-changer-js-proj.netlify.app/)
 ***
 ## What i learn from this project
 - How javascript function works.
